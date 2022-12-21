@@ -1,0 +1,25 @@
+# Mirror
+[[tool.poetry.source]]
+name = "Tsuhuang Mirror"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+# Delete when not need
+
+[tool.poetry]
+name = "template"
+version = "0.1.0"
+description = "template for data processing"
+authors = ["penguinlin777"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+notebook = "^6.5.2"
+pandas = "^1.5.2"
+numpy = "^1.24.0"
+matplotlib = "^3.6.2"
+seaborn = "^0.12.1"
+ipykernel = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

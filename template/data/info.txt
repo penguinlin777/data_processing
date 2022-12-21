@@ -1,0 +1,8 @@
+|- NMR.csv
+|- GPC.csv
+|- TG-DTA.csv
+|- DSC.csv
+|- Density.csv
+|- SAXS-I.csv (optional)
+|- SAXS-II.csv (optional)
+|- metadata.txt
