@@ -6,12 +6,12 @@ Penguin LIN data process repo.
 
 ### Env Setup
 
-Copy template, use sample identifiy as folder name
+Copy template, use sample group identifiy as folder name
 
 Install poetry
 
 ```bash
-pip3 instal poetry
+pip3 install poetry
 ```
 
 ```bash
@@ -29,4 +29,4 @@ poetry install
 
 Set up venv as Jupyter kernel
 
-command + shift + p -> env -> select ./venv/bin/python3 -> go to jupyter notebook and select `<folder>/venv/bin/python3`
+Close vscode and reopen -> Go to jupyter notebook and select `<folder>/venv/bin/python3`
