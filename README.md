@@ -4,6 +4,14 @@ Penguin LIN data process repo.
 
 ## Usage
 
+### Git
+
+```bash
+mkdir <folder name>
+cd <folder address>
+git clone <git hub link>
+```
+
 ### Env Setup
 
 Copy template, use sample group identifiy as folder name
