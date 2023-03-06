@@ -38,3 +38,5 @@ poetry install
 Set up venv as Jupyter kernel
 
 Close vscode and reopen -> Go to jupyter notebook and select `<folder>/venv/bin/python3`
+
+## Save update
